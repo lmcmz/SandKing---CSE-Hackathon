@@ -50,6 +50,8 @@ def download_lecture_notes(course):
 	soup = BeautifulSoup(r.text, "lxml")
 	sider_bar = soup.find('div', id='sidebar')
 	lec = sider_bar.find('a', string="Lectures")
+	if not lec:
+		lec = sider_bar.find('a', string="Lectures  ")
 	location = lec['href']
 
 	url_lec = root + location
@@ -58,7 +60,7 @@ def download_lecture_notes(course):
 	blocks = soup.find_all('div', 'panel panel-primary')
 	dict[course]["lec"] = {}
 	
-#	print(sider_bar)
+	print(sider_bar)
 	
 	for block in blocks:
 		week_str = block.h4.text.strip()
@@ -82,14 +84,23 @@ def download_lecture_notes(course):
 			name = " ".join(name.split())
 			
 			pdf = item.div.find('a',title="Download")
+			pdf_url = root
 			if pdf:
 				pdf_url = root + pdf.get('href')
+			if pdf_url == root:
+				pdf_url = item.div.a.get('href')
+			
+			if pdf_url != root:
 				name = name.replace("/", " ")
 				path = os.path.join(data_path, course, week_str, name)
 #				path = path.replace("\"", "§")
 				succ = util.download_file(pdf_url, path)
 				name = name.replace(".","&")
 				dict[course]["lec"][week_str][name]=pdf_url
+			else:
+				print("Cannot find lecture pdf")
+
+
 	print("  -------------  Lecture download complete. :^ )  -------------  ")
 	
 def download_lab(course):
@@ -260,7 +271,7 @@ def get_leture_resoucre(course):
 	
 		
 #print()
-#download('z5102511', 'Fh5654013', 'COMP9319')
+download('z5102511', 'Fh5654013', 'COMP9313')
 #get_course_outline('undergraduate','COMP9319', 2018)
 
 
