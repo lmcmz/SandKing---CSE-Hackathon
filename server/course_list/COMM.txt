@@ -1,0 +1,28 @@
+COMM1000 Creating Social Change: From Innovation to Impact
+COMM1001 Communication in Business and Economics
+COMM2222 Industry Experience Program
+COMM2233 Industry Consulting Project
+COMM3020 Global Business Practicum
+COMM3030 Social Entrepreneurship Practicum
+COMM4002 Quantitative Research Methods
+COMM4003 Qualitative Research Methods
+COMM5005 Quantitative Methods for Business
+COMM5008 Global Workplace Practice
+COMM5010 Strategy, Marketing and Management
+COMM5011 Data Analysis for Business
+COMM5030 Social Entrepreneurship Practicum
+COMM5201 Social Enterprise: Doing Business for Social Good
+COMM5202 Social and Environmental Sustainability
+COMM5203 Social and Environmental Outcomes Measurement
+COMM5204 Investing for Local and Global Impact
+COMM5205 Leading Change for Sustainability
+COMM5703 Social Impact Investment
+COMM5704 Demonstrating Social Impact
+COMM5706 Design for Social Innovation
+COMM5707 Social Impact Field Project
+COMM5708 Social Impact: Entrepreneurs and Social Innovation
+COMM5709 Corporate Responsibility and Accountability
+COMM5710 Creating Shared Value
+COMM5713 Collaboration for Social Impact
+COMM5714 Social Impact Capstone
+COMM5902 Leadership for Social Impact

@@ -1,0 +1,9 @@
+BINF2010 Introduction to Bioinformatics
+BINF3010 Applied Bioinformatics
+BINF3020 Computational Bioinformatics
+BINF3111 Genome Informatics Engineering Design Workshop
+BINF4111 Bioinformatics Engineering Design Project B
+BINF6111 Genome Informatics Engineering Design Workshop
+BINF6112 Computational Biology Engineering Design Workshop
+BINF9010 Applied Bioinformatics
+BINF9020 Computational Bioinformatics

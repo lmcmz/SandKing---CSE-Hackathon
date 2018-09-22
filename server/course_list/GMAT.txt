@@ -1,0 +1,39 @@
+GMAT1110 Surveying and Geospatial Engineering
+GMAT1400 Land Resource Assessment
+GMAT2120 Surveying and Geospatial Technology
+GMAT2130 Integrating Surveying Techniques
+GMAT2210 GIS in Practice
+GMAT2500 Surveying Computations A
+GMAT2550 Surveying Computations B
+GMAT2700 Foundations of Geodesy & Geospatial Ref Frames
+GMAT3100 Surveying Applications and Design
+GMAT3150 Surveying Field Projects
+GMAT3210 Geoinformation Science
+GMAT3220 Geospatial Information Systems
+GMAT3420 Cadastral Surveying and Land Law
+GMAT3500 Remote Sensing and Photogrammetry
+GMAT3600 Earth Observation Systems and Applications
+GMAT3700 Geodetic Positioning and Applications
+GMAT4009 Practical Experience
+GMAT4010 Undergraduate Project Thesis A
+GMAT4015 Undergraduate Project Thesis B
+GMAT4150 Field Projects 2
+GMAT4220 Geospatial Information Science
+GMAT4400 Land Management Project
+GMAT4450 Land Management and Development Project 2
+GMAT4720 Survey Business Management
+GMAT4860 Sustainable Land Development
+GMAT4900 Principles of GPS Positioning
+GMAT4910 GeoIT and Infomobility Applications
+GMAT9106 Special Topic in GeoIT and Applications A
+GMAT9107 Special Topic in GeoIT and Application B
+GMAT9161 Advanced Estimation Theory
+GMAT9200 Principles of GPS Positioning
+GMAT9205 Fundamentals of Geopositioning
+GMAT9210 GeoIT and Infomobility Applications
+GMAT9211 Modern Geodesy and Applications
+GMAT9212 Precise GPS Positioning
+GMAT9300 Aerial and Satellite Imaging Systems
+GMAT9600 Principles of Remote Sensing
+GMAT9606 Microwave Remote Sensing
+GMAT9906 Major Assignment

@@ -1,0 +1,7 @@
+MICR2011 Microbiology 1
+MICR3061 Viruses and Disease
+MICR3071 Environmental Microbiology
+MICR3621 Microbial Genetics (Advanced)
+MICR4013 Microbiology Honours Full-Time
+MICR5033 Graduate Diploma (Microbiology)
+MICR9071 Marine Microbiology

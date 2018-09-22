@@ -1,0 +1,168 @@
+EDST1101 Educational Psychology
+EDST1104 Social Perspectives in Education
+EDST1108 Indigenous Perspectives in Education
+EDST2002 Professional Engagement
+EDST2003 Learning and Teaching: Introductory Perspectives
+EDST2044 Motivation in Learning and Teaching
+EDST2046 Language and Literacy Learning in the Classroom
+EDST2062 Assessment as Practice
+EDST2070 Culture, Identity and Education
+EDST2091 Digital Literacies in Learning and Teaching
+EDST2094 Communication Skills for Teachers
+EDST4080 Special Education: Inclusive Strategies
+EDST4084 Managing the Classroom Environment
+EDST4096 Responding to Gifted and Talented Students
+EDST4501 Education Honours
+EDST4502 Education Honours
+EDST4503 Education Honours
+EDST4504 Education Honours
+EDST4505 Honours Research Methodology
+EDST4506 Honours Seminar 1
+EDST4507 Honours Seminar 2
+EDST5032 Ethnographic Research Methodology
+EDST5101 Interventionist/Experimental Research Design and Analysis
+EDST5103 Survey Research Design and Analysis
+EDST5104 Educational Assessment
+EDST5105 Digital Literacies and Technologies in Education
+EDST5106 Behaviour Management of Exceptional Students
+EDST5107 Teaching Methods for High Incidence Disabilities
+EDST5108 Measurement in Education
+EDST5110 Educational Leadership for Gifted Students
+EDST5111 Intellectual Disabilities
+EDST5112 Learning: Psychological and Social perspectives
+EDST5113 Autism Spectrum Disorder: Educational Practices
+EDST5114 Investigating Issues in Curriculum and Assessment
+EDST5115 Social and Political Contexts of Education
+EDST5116 Student Engagement
+EDST5117 Professional Inquiry
+EDST5118 Professional Practice for Special Education
+EDST5120 Qualitative Research Methods
+EDST5121 Introduction to University Learning and Teaching
+EDST5122 Student Learning in Higher Education
+EDST5123 Educational Design for Learning in Higher Education
+EDST5124 Enhancing Learning and Teaching in Higher Education
+EDST5126 Issues in Higher Education: Purpose, Role and Organisation
+EDST5127 Coaching and Mentoring in Educational Leadership
+EDST5128 Communication Disorders and Assistive Technology
+EDST5129 Transitions in the Lives of Students with Disabilities
+EDST5130 Leadership in Action
+EDST5131 Oral Communication across the Curriculum
+EDST5133 Creating Engaging Learning Environments
+EDST5134 Addressing Learner Diversity
+EDST5138 Inclusive Education: Policy, Planning and Pedagogy
+EDST5139 Language, Literacy and Numeracy
+EDST5140 Critical Issues and Practice in Visual Arts Education
+EDST5141 Critically Engaging with Indigenous Education
+EDST5142 Leading Educational Change
+EDST5144 Theoretical Domains in Visual Arts Education
+EDST5145 Mentoring Practicum
+EDST5146 Teacher Evaluation and Improvement
+EDST5147 Thesis Writing and Presentation
+EDST5150 Teacher Language Awareness
+EDST5151 Child Development: Psychological & Social Perspectives
+EDST5303 Learning, Problem Solving, and the Development of Expertise
+EDST5306 Human Development and Education
+EDST5307 Mental Processes and Instructional Procedures in Digital Environments
+EDST5308 Teacher Learning
+EDST5313 Learning: Research and Practice
+EDST5314 Building Resilience in the Workplace
+EDST5320 Individual Differences and Education
+EDST5321 Motivation in Educational Settings
+EDST5325 TESOL Advanced Professional Practice
+EDST5433 Organisation Theory in Education
+EDST5436 Evaluation of Educational Programs
+EDST5438 Leadership Theory, Research and Practice
+EDST5440 Advanced TESOL Methodology
+EDST5441 Advanced TESOL Curriculum Design and Assessment
+EDST5442 Advanced Professional Practice
+EDST5443 Assessment for Learning: From Theory to Practice
+EDST5445 Workplace Leadership Development Project
+EDST5448 Classroom-based Research
+EDST5450 Leading Individuals, Teams and Organisations
+EDST5451 Educational Policy: Theory and Practice
+EDST5452 Contemporary Issues in Language Education
+EDST5453 Culture, Communication and the Curriculum
+EDST5454 Developing Literacies: From Kindergarten to University
+EDST5455 Human Resource Management in Education
+EDST5456 Language and Learning: Sociocultural Perspectives
+EDST5457 Literature Review in Education
+EDST5458 Researching Special Education
+EDST5460 Specialist Study in Education
+EDST5462 Teacher Leadership
+EDST5463 Engaging the Educational Research Literature
+EDST5608 Effective Schools
+EDST5802 Identification of Gifted Students
+EDST5803 Developing Effective Programs for Gifted Students
+EDST5805 Curriculum Differentiation and Assessment in Gifted Education
+EDST5806 Creativity and Giftedness
+EDST5807 Social and Emotional Development of Intellectually Gifted Children
+EDST5808 Key Concepts in Gifted Education
+EDST5888 Project
+EDST6700 Chinese Method 1
+EDST6701 Drama Method 1
+EDST6702 English Method 1
+EDST6704 EAL/D Method 1
+EDST6704 English as an Additional Language or Dialect Method 1
+EDST6705 French Method 1
+EDST6706 Geography Method 1
+EDST6707 German Method 1
+EDST6708 History Method 1
+EDST6710 Indonesian Method 1
+EDST6711 Japanese Method 1
+EDST6713 Science Double Method 1
+EDST6714 Spanish Method 1
+EDST6715 Business Studies Method 1
+EDST6716 Economics Method 1
+EDST6717 Aboriginal Studies Method 1
+EDST6718 Korean Method 1
+EDST6719 Legal Studies Method 1
+EDST6720 Dance Method 1
+EDST6722 Society and Culture Method 1
+EDST6723 Extension English Method 1
+EDST6724 Extension History Method 1
+EDST6725 Mathematics Method 1
+EDST6726 Extension Mathematics Method 1
+EDST6727 Music Method 1
+EDST6728 Extension Music Method 1
+EDST6730 Chinese Method 2
+EDST6731 Drama Method 2
+EDST6732 English Method 2
+EDST6734 EAL/D Method 2
+EDST6735 French Method 2
+EDST6736 Geography Method 2
+EDST6737 German Method 2
+EDST6738 History Method 2
+EDST6740 Indonesian Method 2
+EDST6741 Japanese Method 2
+EDST6743 Science Double Method 2
+EDST6744 Spanish Method 2
+EDST6745 Business Studies Method 2
+EDST6746 Economics Method 2
+EDST6747 Aboriginal Studies Method 2
+EDST6748 Korean Method 2
+EDST6749 Legal Studies Method 2
+EDST6750 Dance Method 2
+EDST6752 Society and Culture Method 2
+EDST6753 Extension English Method 2
+EDST6754 Extension History Method 2
+EDST6755 Mathematics Method 2
+EDST6756 Extension Mathematics Method 2
+EDST6757 Music Method 2
+EDST6758 Extension Music Method 2
+EDST6760 Professional Experience 1
+EDST6761 Professional Experience 2/Internship
+EDST6765 Professional Experience 2/Internship
+EDST6771 Graphics and Multimedia Technology Method 1
+EDST6772 Graphics and Multimedia Technology Method 2
+EDST6775 Visual Arts Method 1
+EDST6776 Visual Arts Method 2
+EDST6777 Extension Visual Arts Method 1
+EDST6778 Extension Visual Arts Method 2
+EDST6779 Mathematics 1 (Years K-2)
+EDST6780 Mathematics 2 (3-6)
+EDST6781 English 1 (K-2)
+EDST6782 English 2 (Years 3-6)
+EDST6783 Human Society and its Environment (K-6)
+EDST6784 Science and Technology (K-6)
+EDST6785 Personal Development, Health and Physical Education (K-6)
+EDST6786 Creative Arts (K-6)

@@ -1,0 +1,3 @@
+CLIM1001 Introduction to Climate Change
+CLIM2001 Fundamentals of Atmospheric Science
+CLIM3001 Climate Systems Science

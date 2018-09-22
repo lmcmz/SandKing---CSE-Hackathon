@@ -1,0 +1,75 @@
+ELEC0390 Energy Tomorrow
+ELEC1111 Electrical and Telecommunications Engineering
+ELEC1112 Electrical Circuits
+ELEC2117 Electrical Systems Design
+ELEC2133 Analogue Electronics
+ELEC2134 Circuits and Signals
+ELEC2141 Digital Circuit Design
+ELEC2142 Embedded Systems Design
+ELEC2145 Real Time Instrumentation
+ELEC2146 Electrical Engineering Modelling and Simulation
+ELEC3104 Digital Signal Processing
+ELEC3105 Electrical Energy
+ELEC3106 Electronics
+ELEC3111 Distributed Energy Generation
+ELEC3114 Control Systems
+ELEC3115 Electromagnetic Engineering
+ELEC3117 Electrical Engineering Design
+ELEC3145 Real Time Instrumentation
+ELEC3705 Fundamentals of Quantum Engineering
+ELEC4120 Thesis - Part A (Electrical Engineering)
+ELEC4121 Thesis - Part B (Electrical Engineering)
+ELEC4122 Strategic Leadership & Ethics
+ELEC4123 Electrical Design Proficiency
+ELEC4445 Entrepreneurial Engineering
+ELEC4601 Digital and Embedded Systems Design
+ELEC4602 Microelectronic Design and Technology
+ELEC4603 Solid State Electronics
+ELEC4604 RF Electronics
+ELEC4605 Quantum Devices and Computers
+ELEC4611 Power System Equipment
+ELEC4612 Power System Analysis
+ELEC4613 Electrical Drive Systems
+ELEC4614 Power Electronics
+ELEC4617 Power System Protection
+ELEC4621 Advanced Digital Signal Processing
+ELEC4622 Multimedia Signal Processing
+ELEC4623 Biomedical Instrumentation, Measurement and Design
+ELEC4631 Continuous - Time Control System Design
+ELEC4632 Computer Control Systems
+ELEC4633 Real - Time Engineering
+ELEC8350 Optical Fibres (Distance Learning)
+ELEC8355 Optical Communication Systems
+ELEC8505 Microsystems Technology
+ELEC9120 ME Project A
+ELEC9121 ME Project B
+ELEC9123 Design Proficiency
+ELEC9350 Optical Fibres
+ELEC9355 Optical Communications Systems
+ELEC9701 Mixed Signal Microelectronic Design
+ELEC9702 Radio Frequency Integrated Circuit Design
+ELEC9703 Microsystems Design and Technology
+ELEC9704 VLSI Technology
+ELEC9705 Quantum Devices
+ELEC9711 Power Electronics for Renewable & Distr Generation
+ELEC9712 High Voltage Systems
+ELEC9713 Industrial and Commercial Power Systems
+ELEC9714 Electricity Industry Planning and Economics
+ELEC9715 Electricity Industry Operation and Control
+ELEC9716 Electrical Safety
+ELEC9721 Digital Signal Processing Theory and Applications
+ELEC9722 Digital Image Processing
+ELEC9723 Speech Processing
+ELEC9724 Audio and Electroacoustics
+ELEC9725 Satellite Navigation: Systems, Signals & Receivers
+ELEC9731 Robust and Linear Control Systems
+ELEC9732 Analysis and Design of Non-linear Control
+ELEC9733 Real Computing and Control
+ELEC9734 Biomedical Instrumentation and Informatics
+ELEC9762 Space Mission Development
+ELEC9764 The Ground Segment and Space Operations
+ELEC9765 Space Law and Radio Regulations
+ELEC9768 Satellite Engineering Project A
+ELEC9769 Satellite Engineering Project B
+ELEC9771 Project Report A
+ELEC9772 Project Report B
