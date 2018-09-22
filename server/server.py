@@ -1,10 +1,7 @@
 from flask import Flask,jsonify, url_for
 from flask_restful import reqparse, request
 
-from server import webcms3
-from enum import Enum, unique, IntEnum
-import json
-
+import webcms3
 
 app = Flask(__name__)
 
