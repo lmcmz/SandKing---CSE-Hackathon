@@ -1,0 +1,8 @@
+SENG2011 Workshop on Reasoning about Programs
+SENG2021 Software Engineering Workshop 2B
+SENG3011 Software Engineering Workshop 3
+SENG4904 Industrial Training 1
+SENG4905 Industrial Training 2
+SENG4906 Industrial Training 3
+SENG4907 Industrial Training 4
+SENG4920 Ethics and Management

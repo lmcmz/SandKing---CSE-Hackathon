@@ -1,0 +1,38 @@
+BIOM1010 Engineering in Medicine and Biology
+BIOM2451 Biomechanics for Sports Scientists
+BIOM5001 Thesis Part A (MECH, MTRN)
+BIOM5003 Thesis Part B (MECH, MTRN)
+BIOM5904 Honours Research Project B for BE(Soft)/MBiomedE Students
+BIOM5909 Thesis Part A (Comp 3U)
+BIOM5910 Thesis Part A
+BIOM5911 Thesis Part B
+BIOM5930 Research Project A
+BIOM5932 Thesis Part B (CHEM)
+BIOM5940 Thesis A
+BIOM5950 Thesis Part A (CSE)
+BIOM5951 Thesis Part B (CSE)
+BIOM5960 Thesis Part A (SENG)
+BIOM5961 Thesis Part B (SENG)
+BIOM5971 Thesis Part B (BINF)
+BIOM9020 Masters Project (Half Time)
+BIOM9020 Research Project
+BIOM9021 Masters Project (Half Time)
+BIOM9021 Research Project B
+BIOM9027 Medical Imaging
+BIOM9311 Mass Transfer in Medicine
+BIOM9332 Biocompatibility
+BIOM9333 Cellular and Tissue Engineering
+BIOM9410 Regulatory Requirements of Biomedical Technology
+BIOM9420 Clinical Laboratory Science
+BIOM9432 Chemistry and Physics of Synthetic and Biological Polymers
+BIOM9450 Clinical Information Systems
+BIOM9541 Mechanics of the Human Body
+BIOM9551 Biomechanics of Physical Rehabilitation
+BIOM9561 Mechanical Properties of Biomaterials
+BIOM9621 Biological Signal Analysis
+BIOM9640 Biomedical instrumentation
+BIOM9650 Biosensors and transducers
+BIOM9660 Implantable Bionics
+BIOM9701 Dynamics of the Cardiovascular System
+BIOM9711 Modelling Organs, Tissues and Devices
+BIOM9914 Masters Project

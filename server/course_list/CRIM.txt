@@ -1,0 +1,24 @@
+CRIM1010 Criminology: An Introduction
+CRIM1011 Introduction to Criminal Justice
+CRIM2014 Issues in Policing
+CRIM2020 Criminal Law and Justice 1
+CRIM2021 Criminal Law and Justice 2
+CRIM2031 Indigenous Perspective in Criminal Justice
+CRIM2036 Prison and Punishment: Introduction to Penology
+CRIM2037 Explaining Punishment
+CRIM2038 Young People, Risk and Harm
+CRIM2040 Criminal Networks and Organised Crime
+CRIM2041 Crime and Punishment in Historical Perspective
+CRIM3000 Criminology in Practice
+CRIM3001 Explaining Crime
+CRIM3011 Crime Prevention Policy
+CRIM3012 Violent and Sexual Offenders
+CRIM3022 Public Health and Corrections
+CRIM3024 Issues in Drug Policy
+CRIM4001 Criminology Honours
+CRIM4002 Criminology Honours
+CRIM4003 Criminology Honours
+CRIM4004 Criminology Honours
+CRIM5000 Criminal Justice Research Thesis
+CRIM5001 Explaining Crime 2
+CRIM5002 Sex and Crime

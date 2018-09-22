@@ -1,0 +1,20 @@
+PHAR2011 Introductory Pharmacology and Toxicology
+PHAR3101 Drug Discovery, Design and Development
+PHAR3102 Molecular Pharmacology
+PHAR3111 Clinical Pharmacology for Health and Exercise Science
+PHAR3202 Neuropharmacology
+PHAR3251 Clinical and Experimental Pharmacology
+PHAR3306 Pharmacology for Optometry
+PHAR9101 Introduction to the Therapeutics Industry
+PHAR9104 Regulatory Affairs
+PHAR9111 Pharmaceutics
+PHAR9113 International Regulatory Affairs
+PHAR9114 Health Technology Assessment in Australia
+PHAR9115 Advanced Health Technology Assessment
+PHAR9116 Clinical Trial Management
+PHAR9117 Cancer Therapeutics
+PHAR9118 Therapeutics
+PHAR9120 Clinical Trials
+PHAR9121 Pharmacovigilance
+PHAR9122 Medical Affairs
+PHAR9124 Pharmaceutical Medicine Internship

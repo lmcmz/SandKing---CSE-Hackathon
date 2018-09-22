@@ -1,0 +1,3 @@
+AVEN1920 Introduction to Aircraft Engineering
+AVEN2230 Aviation Technologies
+AVEN3430 Aviation Maintenance Technologies and Operations

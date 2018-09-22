@@ -1,0 +1,43 @@
+ACTL1101 Introduction to Actuarial Studies
+ACTL2100 Industrial Training 1 (Co-op)
+ACTL2101 Industrial Training Experience 1 (Co-op)
+ACTL2102 Foundations of Actuarial Models
+ACTL2111 Financial Mathematics for Actuaries
+ACTL2131 Probability and Mathematical Statistics
+ACTL3141 Actuarial Models and Statistics
+ACTL3142 Actuarial Data and Analysis
+ACTL3151 Life Contingencies
+ACTL3162 General Insurance Techniques
+ACTL3182 Asset-Liability and Derivative Models
+ACTL3191 Superannuation and Retirement Benefits
+ACTL3192 Retirement Saving and Spending Over the Lifecycle
+ACTL3202 Industrial Training Experience 2 (Co-op)
+ACTL3303 Industrial Training Experience 3 (Co-op)
+ACTL4000 Thesis (Actuarial Studies)
+ACTL4001 Actuarial Theory and Practice A
+ACTL4002 Actuarial Theory and Practice B
+ACTL4003 Research Topics in Actuarial Studies
+ACTL4301 Models for Risk Management
+ACTL4302 Risk and Capital Management
+ACTL4303 Asset-Liability Management
+ACTL5000 Thesis (Actuarial Studies)
+ACTL5001 Thesis (part time) - Actuarial Studies
+ACTL5002 Superannuation and Retirement Benefits
+ACTL5003 Research Topics in Actuarial Studies
+ACTL5004 Project Report - Actuarial Studies
+ACTL5100 Actuarial Theory and Practice A
+ACTL5101 Probability and Statistics for Actuaries
+ACTL5102 Financial Mathematics
+ACTL5103 Stochastic Modelling for Actuaries
+ACTL5104 Actuarial Statistics
+ACTL5105 Life Insurance and Superannuation
+ACTL5106 Insurance Risk Models
+ACTL5108 Finance and Financial Reporting for Actuaries
+ACTL5109 Financial Economics for Insurance and Superannuation
+ACTL5110 Actuarial Data and Analysis
+ACTL5200 Actuarial Theory and Practice B
+ACTL5301 Models for Risk Management
+ACTL5302 Risk and Capital Management
+ACTL5303 Asset-Liability Management
+ACTL5306 Retirement Saving and Spending over the Lifecycle
+ACTL5401 Retirement Planning

@@ -1,0 +1,27 @@
+BEIL0001 Graphic Design for Built Environment
+BEIL0003 BE Annual Design Competition
+BEIL0004 Design Competitions and Bids
+BEIL0005 People, Place and Design
+BEIL0006 BE OutThere Elective
+BEIL0007 Sustainable Design Thinking
+BEIL0008 Vision to Reality
+BEIL0009 Exhibition Design: Transforming Temporary Space
+BEIL0010 Creating Value for Built Environment Clients
+BEIL0011 Healthy Planning
+BEIL0013 Architectural Photography
+BEIL0014 Digital Making
+BEIL0015 Digital Design Foundations
+BEIL0016 Renewing the Urban Environment
+BEIL0017 Business Start Up
+BEIL0018 Kirigami Architectural Principles & Creative Paper Engineering
+BEIL6000 Contemporary Issues in Urbanism
+BEIL6000 Issues in Urbanism
+BEIL6001 International Planning
+BEIL6002 Urban and Regional Design
+BEIL6002 Urban and Regional Planning
+BEIL6003 Cinematic Space
+BEIL6004 Masterpieces of Architecture: the Classical Tradition and Modernism
+BEIL6005 Art, Architecture and Design
+BEIL6006 Heritage Planning
+BEIL6007 International Study Tour
+BEIL6008 International Design Studio
