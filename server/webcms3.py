@@ -271,7 +271,6 @@ def get_leture_resoucre(course):
 	
 		
 #print()
-download('z5102511', '', 'COMP9321')
 #get_course_outline('undergraduate','COMP9319', 2018)
 
 

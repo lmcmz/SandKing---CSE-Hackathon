@@ -17,8 +17,8 @@ var $eleBtn1 = $("#btn1");
             //提交表单，实现下载
             $eleForm.submit();
         });
-const data_url = "http://127.0.0.1:5000/";
 
+const data_url = "http://127.0.0.1:5000/";
 
 
 // Vuejs framework
@@ -26,24 +26,16 @@ var v = new Vue({
     el: '#course',
 
     data: {
-        the_code: 'COMP9021'
+        the_code: 'COMP9444'
 
     },
-    // data: {
-        //     rows: '',
-        //     year: '2018',
-        //     country: 'Russia',
-        //     c : {},
-        //     code: 'RU',
-        //
-        // },
 
 
     mounted: function () {
         var self = this;
 
         $.ajax({
-            url: data_url + 'resource/',
+            url: data_url + 'resource/' + this.the_code,
             method: 'GET',
             success: function (data) {
                 self.rows = data;
@@ -55,17 +47,19 @@ var v = new Vue({
 
         //get top10
         $.ajax({
-            url: data_url + 'detail/' + the_code,
+            url: data_url + 'detail/' + this.the_code,
             method: 'GET',
             async: false,
             success: function (data) {
                 console.log(data);
-                country=[];
-                dataset = [];
-                for(var i = 0;i< data.length; i++){
-                    country.push(data[i]['Country']);
-                    dataset.push(data[i]['Count'])
-                }
+                campus = data['Campus'];
+                career = data['Career'];
+                description = data['Description'];
+                requirement = data['Enrolment Requirements'];
+                equivalent = data['Equivalent'];
+                course_name = data['Name'];
+                credit = data['Units of Credit'];
+
             },
             error : function (error) {
                 console.log(error);
@@ -183,10 +177,6 @@ var v = new Vue({
             this.year = new_c[1];
             this.mapping();
         },
-
-
-
-
     }
 });
 

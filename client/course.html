@@ -16,8 +16,17 @@
     <!-- Custom styles for this template -->
     <link href="css/carousel.css" rel="stylesheet">
     <link href="css/main.css" rel="stylesheet">
-     <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
-     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+
+
+
+     <link href="js/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="css/modern-business.css" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+      <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+  <script src="js/vendor/jquery/jquery.min.js"></script>
+
 
 </head>
 <body>
@@ -40,7 +49,7 @@
         <div class="container">
             <div class="row-sm-8">
                 <br>
-                <h1 class="mt-4">{{ the_code }} Principles of Programming</h1><br/>
+                <h1 class="mt-4">{{ the_code }} {{ course_name }}</h1><br/>
                 <!--<h4 class="mt-4">Principles of Programming</h4>-->
                 <!--<table class="table table-borderless" >-->
                         <!--&lt;!&ndash;<thead>&ndash;&gt;-->
@@ -62,9 +71,7 @@
                         <!--</tbody>-->
                     <!--</table>-->
                 <p><b>Course Description</b></p>
-                <p>This is a first programming course. It provides an introduction to programming in Python and covers the following essentials:
-
-    Program design and implementation in a high level language, with procedural and object oriented constructs and some functional features. Fundamental programming techniques, data structures and algorithms. Debugging and testing. Simulation. Applications in different areas, including those involving graphical user interfaces and animations.</p>
+                <p>{{ description }}</p>
                 <div class="row">
                     <div class="col-sm-2">
                         <button type="button" class="btn btn-primary btn-lg" id="btn1">Resources</button>
@@ -142,12 +149,24 @@
                             <td>Dr EA Martin</td>
                         </tr>
                         <tr v-for="r in rows" >
+                            <td><b>Campus</b></td>
+                            <td>{{ campus }}}</td>
+                        </tr>
+                        <tr v-for="r in rows" >
                             <td><b>Career</b></td>
-                            <td>Postgraduate</td>
+                            <td>{{ career }}}</td>
+                        </tr>
+                        <tr v-for="r in rows" >
+                            <td><b>Enrolment Requirements</b></td>
+                            <td>{{ require }}}</td>
+                        </tr>
+                         <tr v-for="r in rows" >
+                            <td><b>Equivalent</b></td>
+                            <td>{{ equivalent }}}</td>
                         </tr>
                         <tr v-for="r in rows">
                             <td><b>Credit</b></td>
-                            <td>6</td>
+                            <td>{{ credit }}</td>
                         </tr>
                         </tbody>
                     </table>
@@ -173,11 +192,10 @@
         crossorigin="anonymous"></script>
 <script>window.jQuery || document.write('<script src="js/jquery-3.3.1.slim.min.js"><\/script>')</script>
 <script src="js/popper.min.js"></script>
-<script src="js/course.js"></script>
-<script src="js/index.js"></script>
+
 <script src="js/vendor/jquery/jquery.min.js"></script>
 <script src="js/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-
+<script src="js/course.js"></script>
 </body>
 </html>
 

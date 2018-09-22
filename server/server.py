@@ -47,10 +47,11 @@ def resource(cID):
 
 @app.route("/download/<cID>", methods=['GET','POST'])
 def download(cID):
-	content = request.json
-	result = webcms3.download(content['zid'], content['zPassword'], cID)
-	print(result)
-	return jsonify(result)
+    content = request.json
+    print(content['zid'], content['zPassword'])
+    # result = webcms3.download(content['zid'], content['zPassword'], cID)
+    # print(result)
+    # return jsonify(result)
 
 if __name__ == "__main__":
 	app.config['JSON_AS_ASCII'] = False
