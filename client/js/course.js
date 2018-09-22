@@ -52,13 +52,13 @@ var v = new Vue({
             async: false,
             success: function (data) {
                 console.log(data);
-                campus = data['Campus'];
-                career = data['Career'];
-                description = data['Description'];
-                requirement = data['Enrolment Requirements'];
-                equivalent = data['Equivalent'];
-                course_name = data['Name'];
-                credit = data['Units of Credit'];
+                self.campus = data['Campus'];
+                self.career = data['Career'];
+                self.description = data['Description'];
+                self.requirement = data['Enrolment Requirements'];
+                self.equivalent = data['Equivalent'];
+                self.course_name = data['Name'];
+                self.credit = data['Units of Credit'];
 
             },
             error : function (error) {
@@ -127,56 +127,8 @@ var v = new Vue({
 		    });
 
 
-        },
-        capitalize: function(string){
-            return string.charAt(0).toUpperCase() + string.slice(1);
-        },
+        }
 
-        mapping: function(){
-
-            this.info();
-
-            var self= this;
-            $.ajax({
-                url: google_url + 'country/'+this.country,
-                method: 'GET',
-                async: false,
-                success: function (data) {
-
-                    var country_coordinate=data[data.length-1]['Country Coordinate'].split(',');
-                    self.map_center=[parseFloat(country_coordinate[0]), parseFloat(country_coordinate[1])];
-
-                    self.stadium_coordinates=[];
-
-                    self.stadium_names=[];
-                    self.stadium_address=[];
-
-                    for(var i = 0;i<data.length-1; i++){
-                        if (data[i]["Coordinate"] == null){
-                            continue;
-                        };
-                            var latlong=data[i]["Coordinate"].split(',');
-                            var gloc = new google.maps.LatLng(parseFloat(latlong[0]), parseFloat(latlong[1]));
-                            self.stadium_coordinates.push(gloc);
-                            self.stadium_names.push(data[i]["Stadium"]);
-                            self.stadium_address.push(data[i]["Address"]);
-
-                    };
-
-
-                },
-                error : function (error) {
-                    console.log(error);
-                }
-
-            });
-            this.google();
-        },
-        table: function(new_c){
-            this.country=new_c[0];
-            this.year = new_c[1];
-            this.mapping();
-        },
     }
 });
 
