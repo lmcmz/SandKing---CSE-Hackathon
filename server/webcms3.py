@@ -193,67 +193,75 @@ def download_asst(course):
 				dict[course]["asst"][week_str][name] = pdf_url
 	print("  -------------  Asst download complete. :^ )  -------------  ")
 
+def get_course_outline(degree,course,year):
+	url = "http://legacy.handbook.unsw.edu.au/{}/courses/{}/{}.html".format(degree,year,course)
+	print(url)
+	r = requests.get(url)
+	if r.status_code==200:
+		soup = BeautifulSoup(r.text,"lxml")
+		for div in soup.findAll('div', attrs={'class':'internalContentWrapper'}):
+			content = div.text
+			campus = content.split("Campus:",1)[1]
+			campus = campus.split('Career', 1)[0]
+                #remove the white space in the front and back
+			campus = campus.strip()
+			career = content.split("Career:",1)[1]
+			career = career.split('Units of Credit', 1)[0]
+			career = career.strip()
+			
+			uoc = content.split("Units of Credit:",1)[1]
+			uoc = uoc.split('EFTSL', 1)[0]
+			uoc = uoc.strip()
+			
+			name = div.h1.text.split('-')[0]
+			
+			des = content.split("Description",1)[1] 
+			des = des.strip()
+			
+			data = {"Campus" : "","Career": "","Units of Credit":"","Enrolment Requirements" : "","Equivalent":"","Description": "", "Code":""}
+			data['Campus']=campus
+			data['Career']=career
+			data['Units of Credit']=uoc
+			data['Code'] = course
+			data['Name']=name
+			data['Description']=des
+			return data
+
 
 def download(account_input, password_input, courseList_input):
-#	parser = argparse.ArgumentParser()
-#	parser.add_argument("-c", "--course",  nargs='+', help="Course code")
-#	parser.add_argument("-a", "--account",  nargs=1, help="UNSW zid")
-#	parser.add_argument("-p", "--password",  nargs=1, help="UNSW zPassword")
-##	parser.add_argument("-l", "--lab", help="Download Lab", action='store_true')
-##	parser.add_argument("-at", "--assessment", help="Download assessment", action='store_true')
-#	args = parser.parse_args()
-	
-#	courseList = [c.upper() for c in args.course]
-#	account = args.account[0]
-#	password = args.password[0]
 	
 	account = account_input
 	password = password_input
 	course = courseList_input
 	
-	
 	if not login(account, password):
 		print("Login Failed")
 		return ""
-	else:	
-#		for course in courseList:
+	else:
+#		path = os.path.join(data_path,course)
+#		if os.path.exists(path):
+#			return path+".zip"
+		
 		dict[course] = {}
 		download_lecture_notes(course)
-#		download_lab(course)
-#		download_asst(course)
 		util.zip_file(data_path,course)
 		zip_filename = course+".zip"
-		return os.path.join(data_path, zip_filename)
+		util.write_dict_to_json(data_path, dict, courseList_input)
+		path = os.path.join(data_path, zip_filename)
+		return {"link:":path}
+		
 
+def get_leture_resoucre(course):
+	path = os.path.join(data_path,course)
+	path += ".json"
+	if os.path.exists(path):
+		return util.read_json_file(path)
+	############ TODO ###############
+	
+		
+#print()
 #download('z5102511', 'Fh5654013', 'COMP9319')
+#get_course_outline('undergraduate','COMP9319', 2018)
 
-#if __name__ == '__main__':
-#	parser = argparse.ArgumentParser()
-#	parser.add_argument("-c", "--course",  nargs='+', help="Course code")
-#	parser.add_argument("-a", "--account",  nargs=1, help="UNSW zid")
-#	parser.add_argument("-p", "--password",  nargs=1, help="UNSW zPassword")
-##	parser.add_argument("-l", "--lab", help="Download Lab", action='store_true')
-##	parser.add_argument("-at", "--assessment", help="Download assessment", action='store_true')
-#	args = parser.parse_args()
-#	
-#	courseList = [c.upper() for c in args.course]
-#	account = args.account[0]
-#	password = args.password[0]
-#	
-#	if not login(account, password):
-#		print("Login Failed")
-#	else:	
-#		for course in courseList:
-#			dict[course] = {}
-#			download_lecture_notes(course)
-#	#		if args.lab:
-##			download_lab(course)
-#	#		if args.assessment:
-##			download_asst(course)
-#			
-#		## For share data in late stage without input zid and password
-##		json_data = json.dumps(dict, indent=4)
-##		r = requests.post("http://45.76.176.41", json_data)
-#	
 
 
