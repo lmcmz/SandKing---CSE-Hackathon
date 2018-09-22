@@ -15,7 +15,6 @@ def is_downloadable(url):
 	return True
 
 def download_file(url, path):
-#	path = "./data/"+path
 	if not is_downloadable(url):
 		return False
 	r = requests.Response()

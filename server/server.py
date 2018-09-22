@@ -11,7 +11,6 @@ def home():
 	orderList = list()
 	return jsonify(orderList)
 
-
 @app.route("/<cID>", methods=['GET'])
 def detail(cID):
 	orderList = list()
