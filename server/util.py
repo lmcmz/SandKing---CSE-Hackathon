@@ -1,6 +1,7 @@
 import requests, os
 import filetype
 import shutil
+import json
 
 def is_downloadable(url):
 	h = requests.head(url, allow_redirects=True, verify=False)
@@ -15,6 +16,7 @@ def is_downloadable(url):
 	return True
 
 def download_file(url, path):
+#	path = "./data/"+path
 	if not is_downloadable(url):
 		return False
 	r = requests.Response()
@@ -37,5 +39,13 @@ def zip_file(data_path, dir_name):
 	shutil.make_archive(zip_path, 'zip', path)
 	
 
+def write_dict_to_json(data_path, dict, course):
+	path = os.path.join(data_path, course)
+	with open( path +'.json', 'w') as fp:
+		json.dump(dict, fp)
+	fp.close()
 
-	
+def read_json_file(path):
+	with open(path) as json_file:
+		json_data = json.load(json_file)
+		return json_data

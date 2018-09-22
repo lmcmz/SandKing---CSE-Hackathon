@@ -11,17 +11,22 @@ def home():
 	orderList = list()
 	return jsonify(orderList)
 
-@app.route("/<cID>", methods=['GET'])
+@app.route("/detail/<cID>", methods=['GET'])
 def detail(cID):
-	orderList = list()
-	return jsonify(orderList)
+	json = wb3.get_course_outline('undergraduate',cID, 2018)
+	return jsonify(json)
+
+@app.route("/resource/<cID>", methods=['GET'])
+def resource(cID):
+	json = wb3.get_leture_resoucre('COMP9319')
+	return jsonify(json)
 
 @app.route("/download/<cID>", methods=['GET','POST'])
 def download(cID):
-	orderList = list()
 	content = request.json
 	result = wb3.download(content['zid'], content['zPassword'], cID)
-	return jsonify(orderList)
+	print(result)
+	return jsonify(result)
 
 if __name__ == "__main__":
 	app.config['JSON_AS_ASCII'] = False
