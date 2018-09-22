@@ -58,7 +58,7 @@ var v = new Vue({
         });
 
         this.info();
-      
+
 
 
     },
