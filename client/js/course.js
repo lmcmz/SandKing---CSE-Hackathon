@@ -4,7 +4,8 @@ var $eleBtn1 = $("#btn1");
         //已知一个下载文件的后端接口：https://codeload.github.com/douban/douban-client/legacy.zip/master
         //方法一：window.open()
         $eleBtn1.click(function(){
-            window.open("https://codeload.github.com/douban/douban-client/legacy.zip/master");
+
+            window.open("http://localhost:63342/SandKing-CSE-Hackathon/client/login.html");
         });
         //方法二：通过form
         $eleBtn2.click(function(){
