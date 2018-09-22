@@ -1,1 +1,0 @@
-course_dict={'RISK2001':'Fundamentals of Risk and Risk Management','RISK3002':'Risk Tools','RISK3003':'Risk Decisions','RISK3009':'Risk Management Strategies','RISK5001':'Fundamentals of Risk and Risk Management','RISK5002':'Risk Tools','RISK5003':'Risk Decisions','RISK5004':'Case Studies in Risk Management','RISK5009':'Risk Management Strategies',}

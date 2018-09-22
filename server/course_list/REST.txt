@@ -1,1 +1,0 @@
-course_dict={'REST0001':'Property Performance Analysis','REST0004':'Property Investment and Finance','REST0005':'Property Valuation','REST0006':'Property Development and Feasibility Analysis','REST0007':'Asset and Facilities Management','REST0010':'Property Industry Application','REST0018':'Research Project','REST0019':'Real Property Law',}

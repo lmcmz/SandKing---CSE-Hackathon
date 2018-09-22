@@ -1,1 +1,0 @@
-course_dict={'INST1005':'Key Debates in International Studies','INST1006':'The World in Transition','INST2003':'Research Methods in International Studies','INST3900':'International Studies Advanced Seminar',}

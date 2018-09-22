@@ -1,1 +1,0 @@
-course_dict={'HUMS1004':'Thinking Through Disability: People, Policies and Practices','HUMS1005':'Personalised English Language Enhancement','HUMS1006':'Presentation and Communication Skills','HUMS1008':'Music on My Mind: Psychology and Music','HUMS2000':'Arts Internship',}

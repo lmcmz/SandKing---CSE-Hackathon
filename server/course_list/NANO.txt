@@ -1,1 +1,0 @@
-course_dict={'NANO1001':'Nanotechnology 1','NANO2002':'Nanotechnology 2','NANO3001':'Advanced Nanomaterials','NANO3002':'Nanomedicine','NANO4004':'Nanotechnology Project',}
