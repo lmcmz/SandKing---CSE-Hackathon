@@ -1,4 +1,1 @@
-PHTN3117 Photonic Engineering Design
-PHTN4123 Photonic Design Proficiency
-PHTN4661 Optical Circuits and Fibres
-PHTN4662 Photonic Networks
+course_dict={'PHTN3117':'Photonic Engineering Design','PHTN4123':'Photonic Design Proficiency','PHTN4661':'Optical Circuits and Fibres','PHTN4662':'Photonic Networks',}

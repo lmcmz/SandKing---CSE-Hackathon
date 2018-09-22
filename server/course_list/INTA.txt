@@ -1,18 +1,1 @@
-INTA2101 Design Practice 1: Enquire
-INTA2102 Design Practice 2: Articulate
-INTA2171 Interior Technics 1: Assemblage
-INTA2172 Interior Technics 2: Materiality
-INTA2201 Design Practice 3: Translate
-INTA2202 Design Practice 4: Experiment
-INTA2301 Design Practice 5: Narrate
-INTA2302 Design Practice 6: Speculate
-INTA2401 Design Practice 7: Propose
-INTA2402 Design Practice 8: Resolve
-INTA2411 Dissertation
-INTA3121 Critical Perspectives 1: Interiority
-INTA3122 Critical Perspectives 2: Dwelling
-INTA3222 Critical Perspectives 3: Consumption
-INTA3241 Interior Architecture Communication Techniques 3
-INTA3271 Interior Technics 3: Detail
-INTA3272 Interior Architecture Technics 4
-INTA3322 Critical Perspectives 4: Identity
+course_dict={'INTA2101':'Design Practice 1: Enquire','INTA2102':'Design Practice 2: Articulate','INTA2171':'Interior Technics 1: Assemblage','INTA2172':'Interior Technics 2: Materiality','INTA2201':'Design Practice 3: Translate','INTA2202':'Design Practice 4: Experiment','INTA2301':'Design Practice 5: Narrate','INTA2302':'Design Practice 6: Speculate','INTA2401':'Design Practice 7: Propose','INTA2402':'Design Practice 8: Resolve','INTA2411':'Dissertation','INTA3121':'Critical Perspectives 1: Interiority','INTA3122':'Critical Perspectives 2: Dwelling','INTA3222':'Critical Perspectives 3: Consumption','INTA3241':'Interior Architecture Communication Techniques 3','INTA3271':'Interior Technics 3: Detail','INTA3272':'Interior Architecture Technics 4','INTA3322':'Critical Perspectives 4: Identity',}

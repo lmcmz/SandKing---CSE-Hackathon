@@ -1,14 +1,1 @@
-MODL5100 Research and Theories of Translation and Interpreting
-MODL5101 Interpreting in Legal Settings
-MODL5102 Interpreting in Community Settings
-MODL5103 Multimedia Translation
-MODL5104 Specialised Translation
-MODL5105 Conference Interpreting
-MODL5106 Text Analysis for Translation
-MODL5107 Translation Technology
-MODL5108 Preparation for Accreditation in Translation
-MODL5111 Translation and Interpreting Practicum A
-MODL5112 Translation and Interpreting Practicum B
-MODL5113 Interpreting Accreditation Preparation
-MODL5116 Advanced Conference Interpreting
-MODL5117 Interpreting in International Settings
+course_dict={'MODL5100':'Research and Theories of Translation and Interpreting','MODL5101':'Interpreting in Legal Settings','MODL5102':'Interpreting in Community Settings','MODL5103':'Multimedia Translation','MODL5104':'Specialised Translation','MODL5105':'Conference Interpreting','MODL5106':'Text Analysis for Translation','MODL5107':'Translation Technology','MODL5108':'Preparation for Accreditation in Translation','MODL5111':'Translation and Interpreting Practicum A','MODL5112':'Translation and Interpreting Practicum B','MODL5113':'Interpreting Accreditation Preparation','MODL5116':'Advanced Conference Interpreting','MODL5117':'Interpreting in International Settings',}

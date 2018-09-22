@@ -1,13 +1,1 @@
-ANAT1521 Anatomy for Medical Science
-ANAT2111 Introductory Anatomy
-ANAT2241 Histology: Basic and Systematic
-ANAT2341 Embryology: Early and Systematic Development
-ANAT2451 Functional Anatomy for Health and Exercise Science
-ANAT2511 Fundamentals of Anatomy
-ANAT2521 Evolution of Human Structure
-ANAT3121 Visceral Anatomy
-ANAT3131 Functional Anatomy of the Head, Neck and Back
-ANAT3141 Functional Anatomy of the Limbs
-ANAT3212 Microscopy in Research
-ANAT3231 Cell Biology
-ANAT3411 Neuroanatomy
+course_dict={'ANAT1521':'Anatomy for Medical Science','ANAT2111':'Introductory Anatomy','ANAT2241':'Histology: Basic and Systematic','ANAT2341':'Embryology: Early and Systematic Development','ANAT2451':'Functional Anatomy for Health and Exercise Science','ANAT2511':'Fundamentals of Anatomy','ANAT2521':'Evolution of Human Structure','ANAT3121':'Visceral Anatomy','ANAT3131':'Functional Anatomy of the Head, Neck and Back','ANAT3141':'Functional Anatomy of the Limbs','ANAT3212':'Microscopy in Research','ANAT3231':'Cell Biology','ANAT3411':'Neuroanatomy',}

@@ -1,15 +1,1 @@
-MANF3100 Product and Manufacturing Design
-MANF3510 Process Technology and Automation
-MANF3610 Manufacturing Operations
-MANF4020 Manufacturing Systems
-MANF4100 Design and Analysis of Product-Process Systems
-MANF4430 Reliability and Maintenance Engineering
-MANF4450 Strategic Manufacturing and Accounting
-MANF4611 Process Modelling and Simulation
-MANF6860 Strategic Manufacturing Management
-MANF9400 Industrial Management
-MANF9420 Operations and Supply Chain Management in Engineering
-MANF9472 Production Planning and Control
-MANF9543 Computer Aided Design / Computer Aided Manufacture
-MANF9544 Concurrent Product and Process Design
-MANF9560 Computer Integrated Manufacturing
+course_dict={'MANF3100':'Product and Manufacturing Design','MANF3510':'Process Technology and Automation','MANF3610':'Manufacturing Operations','MANF4020':'Manufacturing Systems','MANF4100':'Design and Analysis of Product-Process Systems','MANF4430':'Reliability and Maintenance Engineering','MANF4450':'Strategic Manufacturing and Accounting','MANF4611':'Process Modelling and Simulation','MANF6860':'Strategic Manufacturing Management','MANF9400':'Industrial Management','MANF9420':'Operations and Supply Chain Management in Engineering','MANF9472':'Production Planning and Control','MANF9543':'Computer Aided Design / Computer Aided Manufacture','MANF9544':'Concurrent Product and Process Design','MANF9560':'Computer Integrated Manufacturing',}

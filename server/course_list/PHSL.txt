@@ -1,8 +1,1 @@
-PHSL2101 Physiology 1A
-PHSL2121 Principles of Physiology A
-PHSL2201 Physiology 1B
-PHSL2221 Principles of Physiology B
-PHSL2501 Human Physiology A
-PHSL2502 Human Physiology B
-PHSL3211 Cardiovascular Physiology and Pathophysiology
-PHSL3221 Endocrine, Reproductive and Developmental Physiology
+course_dict={'PHSL2101':'Physiology 1A','PHSL2121':'Principles of Physiology A','PHSL2201':'Physiology 1B','PHSL2221':'Principles of Physiology B','PHSL2501':'Human Physiology A','PHSL2502':'Human Physiology B','PHSL3211':'Cardiovascular Physiology and Pathophysiology','PHSL3221':'Endocrine, Reproductive and Developmental Physiology',}

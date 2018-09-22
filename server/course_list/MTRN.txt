@@ -1,8 +1,1 @@
-MTRN2500 Computing for Mechatronic Engineers
-MTRN3020 Modelling and Control of Mechatronic Systems
-MTRN3200 Elements of Mechatronic Systems
-MTRN3500 Computing Applications in Mechatronics Systems
-MTRN4010 Advanced Autonomous Systems
-MTRN4030 Optimisation Methods for Engineering Systems
-MTRN4110 Robot Design
-MTRN4230 Robotics
+course_dict={'MTRN2500':'Computing for Mechatronic Engineers','MTRN3020':'Modelling and Control of Mechatronic Systems','MTRN3200':'Elements of Mechatronic Systems','MTRN3500':'Computing Applications in Mechatronics Systems','MTRN4010':'Advanced Autonomous Systems','MTRN4030':'Optimisation Methods for Engineering Systems','MTRN4110':'Robot Design','MTRN4230':'Robotics',}

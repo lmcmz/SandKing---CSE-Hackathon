@@ -1,10 +1,1 @@
-HDAT9100 Context of Health Data Science
-HDAT9200 Statistical Foundations for Health Data Science
-HDAT9400 Management and Curation of Health Data
-HDAT9500 Health Data Analytics: Machine Learning and Data Mining
-HDAT9600 Health Data Analytics: Statistical Modelling I
-HDAT9700 Health Data Analytics: Statistical Modelling II
-HDAT9800 Visualisation and Communication of Health Data
-HDAT9900 Health Data Science: Dissertation
-HDAT9901 Health Data Science: Dissertation (Part A)
-HDAT9902 Health Data Science: Dissertation (Part B)
+course_dict={'HDAT9100':'Context of Health Data Science','HDAT9200':'Statistical Foundations for Health Data Science','HDAT9400':'Management and Curation of Health Data','HDAT9500':'Health Data Analytics: Machine Learning and Data Mining','HDAT9600':'Health Data Analytics: Statistical Modelling I','HDAT9700':'Health Data Analytics: Statistical Modelling II','HDAT9800':'Visualisation and Communication of Health Data','HDAT9900':'Health Data Science: Dissertation','HDAT9901':'Health Data Science: Dissertation (Part A)','HDAT9902':'Health Data Science: Dissertation (Part B)',}

@@ -1,15 +1,1 @@
-LING5000 Special Project in Applied Linguistics
-LING5001 Second Language Acquisition
-LING5005 The Grammar of English
-LING5006 Current Issues in Bilingualism
-LING5015 Discourse Analysis
-LING5022 Cross-cultural Pragmatics
-LING5024 Linguistic Approaches to Spoken English
-LING5026 The Structure of Language
-LING5027 Research Methods in Applied Linguistics
-LING5029 Psycholinguistic Inquiry
-LING5031 Issues in Second Language Acquisition
-LING5032 Thesis Writing 1 in Applied Linguistics
-LING5033 Thesis Writing 2 in Applied Linguistics
-LING5035 Semantics and Pragmatics
-LING5037 The Use of Language
+course_dict={'LING5000':'Special Project in Applied Linguistics','LING5001':'Second Language Acquisition','LING5005':'The Grammar of English','LING5006':'Current Issues in Bilingualism','LING5015':'Discourse Analysis','LING5022':'Cross-cultural Pragmatics','LING5024':'Linguistic Approaches to Spoken English','LING5026':'The Structure of Language','LING5027':'Research Methods in Applied Linguistics','LING5029':'Psycholinguistic Inquiry','LING5031':'Issues in Second Language Acquisition','LING5032':'Thesis Writing 1 in Applied Linguistics','LING5033':'Thesis Writing 2 in Applied Linguistics','LING5035':'Semantics and Pragmatics','LING5037':'The Use of Language',}

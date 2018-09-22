@@ -1,17 +1,1 @@
-HESC1501 Introductory Exercise Science
-HESC1511 Exercise Programs & Behaviour
-HESC2452 Movement Assessment and Instruction
-HESC2501 Exercise Physiology
-HESC3504 Physical Activity and Health
-HESC3532 Movement Rehabilitation
-HESC3541 Clinical Exercise Physiology
-HESC3581 Physical Activity in Special Populations
-HESC3592 Neuromuscular Rehabilitation
-HESC3641 Advanced Exercise Physiology
-HESC4501 Exercise Physiology Research Seminars
-HESC4511 Practicum A
-HESC4521 Practicum B
-HESC4551 Research Project
-HESC4571 Research Project
-HESC4611 Clinical Practicum A
-HESC4622 Clinical Practicum B
+course_dict={'HESC1501':'Introductory Exercise Science','HESC1511':'Exercise Programs & Behaviour','HESC2452':'Movement Assessment and Instruction','HESC2501':'Exercise Physiology','HESC3504':'Physical Activity and Health','HESC3532':'Movement Rehabilitation','HESC3541':'Clinical Exercise Physiology','HESC3581':'Physical Activity in Special Populations','HESC3592':'Neuromuscular Rehabilitation','HESC3641':'Advanced Exercise Physiology','HESC4501':'Exercise Physiology Research Seminars','HESC4511':'Practicum A','HESC4521':'Practicum B','HESC4551':'Research Project','HESC4571':'Research Project','HESC4611':'Clinical Practicum A','HESC4622':'Clinical Practicum B',}

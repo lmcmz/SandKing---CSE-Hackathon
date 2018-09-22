@@ -1,13 +1,1 @@
-BIOC2101 Principles of Biochemistry (Advanced)
-BIOC2181 Fundamentals of Biochemistry
-BIOC2201 Principles of Molecular Biology (Advanced)
-BIOC3111 Molecular Biology of Proteins
-BIOC3261 Human Biochemistry
-BIOC3271 Molecular Cell Biology 2
-BIOC3671 Molecular Cell Biology (Advanced)
-BIOC4103 Genetics 4 Honours Full-Time
-BIOC4109 Genetics Honours (PT)
-BIOC4318 Biochemistry 4 Honours Full-Time
-BIOC4428 Molecular Biology 4 Honours Full-Time
-BIOC5318 Graduate Diploma (Biochemistry)
-BIOC5319 Graduate Diploma (Biochemistry)
+course_dict={'BIOC2101':'Principles of Biochemistry (Advanced)','BIOC2181':'Fundamentals of Biochemistry','BIOC2201':'Principles of Molecular Biology (Advanced)','BIOC3111':'Molecular Biology of Proteins','BIOC3261':'Human Biochemistry','BIOC3271':'Molecular Cell Biology 2','BIOC3671':'Molecular Cell Biology (Advanced)','BIOC4103':'Genetics 4 Honours Full-Time','BIOC4109':'Genetics Honours (PT)','BIOC4318':'Biochemistry 4 Honours Full-Time','BIOC4428':'Molecular Biology 4 Honours Full-Time','BIOC5318':'Graduate Diploma (Biochemistry)','BIOC5319':'Graduate Diploma (Biochemistry)',}

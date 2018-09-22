@@ -1,9 +1,1 @@
-SCIF1004 Science and the Cinema
-SCIF1006 Introduction to New Testament Greek
-SCIF1102 Fundamentals of Professionalism in Science
-SCIF1111 Perspectives in Medical Science
-SCIF1131 Introductory Skills for Science
-SCIF2041 Research Internship A
-SCIF2199 Science Work Placement
-SCIF3041 Research Internship B
-SCIF3900 Aviation and Sustainable Tourism
+course_dict={'SCIF1004':'Science and the Cinema','SCIF1006':'Introduction to New Testament Greek','SCIF1102':'Fundamentals of Professionalism in Science','SCIF1111':'Perspectives in Medical Science','SCIF1131':'Introductory Skills for Science','SCIF2041':'Research Internship A','SCIF2199':'Science Work Placement','SCIF3041':'Research Internship B','SCIF3900':'Aviation and Sustainable Tourism',}

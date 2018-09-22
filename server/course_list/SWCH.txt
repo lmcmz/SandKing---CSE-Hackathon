@@ -1,18 +1,1 @@
-SWCH9001 Basic Reproductive Physiology
-SWCH9002 Contraception
-SWCH9003 Clinical Reproductive Endocrinology
-SWCH9004 Clinical Reproductive Medicine 1
-SWCH9005 Clinical Reproductive Medicine 2
-SWCH9006 Laboratory Aspects of ART
-SWCH9007 Menopause
-SWCH9009 Ethics And Law In Reproductive Medicine
-SWCH9011 Reproductive, Perinatal Epidemiology&Biostatistics
-SWCH9012 The Impact of Infections on Reproductive Health
-SWCH9013 Common Gynaecological & Urogynaecological Condition
-SWCH9014 Antenatal Care
-SWCH9015 Children's & Adolescent Gynaecology
-SWCH9016 Cancer in Women
-SWCH9017 Applied Reproductive Anatomy and Physiology
-SWCH9019 Research Project in Reproductive or Women's Health
-SWCH9031 Postnatal Care of the Mother and Her Baby
-SWCH9032 Perinatal Psychology
+course_dict={'SWCH9001':'Basic Reproductive Physiology','SWCH9002':'Contraception','SWCH9003':'Clinical Reproductive Endocrinology','SWCH9004':'Clinical Reproductive Medicine 1','SWCH9005':'Clinical Reproductive Medicine 2','SWCH9006':'Laboratory Aspects of ART','SWCH9007':'Menopause','SWCH9009':'Ethics And Law In Reproductive Medicine','SWCH9011':'Reproductive, Perinatal Epidemiology&Biostatistics','SWCH9012':'The Impact of Infections on Reproductive Health','SWCH9013':'Common Gynaecological & Urogynaecological Condition','SWCH9014':'Antenatal Care','SWCH9015':'Children's & Adolescent Gynaecology','SWCH9016':'Cancer in Women','SWCH9017':'Applied Reproductive Anatomy and Physiology','SWCH9019':'Research Project in Reproductive or Women's Health','SWCH9031':'Postnatal Care of the Mother and Her Baby','SWCH9032':'Perinatal Psychology',}

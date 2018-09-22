@@ -1,3 +1,1 @@
-GENY0001 Academic Skills Plus
-GENY0002 Academic Skills Plus
-GENY0003 Academic Skills Plus
+course_dict={'GENY0001':'Academic Skills Plus','GENY0002':'Academic Skills Plus','GENY0003':'Academic Skills Plus',}

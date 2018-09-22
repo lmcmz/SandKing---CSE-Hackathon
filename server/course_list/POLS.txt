@@ -1,13 +1,1 @@
-POLS5100 International Relations Internship
-POLS5102 Australia in the World
-POLS5113 Thesis
-POLS5120 Global Politics: The Globalisation of World Politics
-POLS5121 International Organisations and Global Politics
-POLS5122 The International Political Economy
-POLS5125 The Politics of International Law
-POLS5127 China and Asia-Pacific Security
-POLS5129 The Foreign Policies of the Great Powers
-POLS5130 International Peace & Security
-POLS5131 Terrorism and Political Violence
-POLS5160 The Middle East and Global Politics
-POLS5161 Developing Countries & the International System
+course_dict={'POLS5100':'International Relations Internship','POLS5102':'Australia in the World','POLS5113':'Thesis','POLS5120':'Global Politics: The Globalisation of World Politics','POLS5121':'International Organisations and Global Politics','POLS5122':'The International Political Economy','POLS5125':'The Politics of International Law','POLS5127':'China and Asia-Pacific Security','POLS5129':'The Foreign Policies of the Great Powers','POLS5130':'International Peace & Security','POLS5131':'Terrorism and Political Violence','POLS5160':'The Middle East and Global Politics','POLS5161':'Developing Countries & the International System',}

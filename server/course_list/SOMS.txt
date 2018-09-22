@@ -1,5 +1,1 @@
-SOMS1501 Inside the Criminal Mind
-SOMS3001 SOMS Research Internship
-SOMS3232 Cellular Mechanisms of Health and Disease
-SOMS4001 School of Medical Sciences Honours (Full Time)
-SOMS4002 School of Medical Sciences Honours (Part-time)
+course_dict={'SOMS1501':'Inside the Criminal Mind','SOMS3001':'SOMS Research Internship','SOMS3232':'Cellular Mechanisms of Health and Disease','SOMS4001':'School of Medical Sciences Honours (Full Time)','SOMS4002':'School of Medical Sciences Honours (Part-time)',}

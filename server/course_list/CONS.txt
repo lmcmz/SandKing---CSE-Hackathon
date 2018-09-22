@@ -1,10 +1,1 @@
-CONS0002 Management of Construction Organisations
-CONS0005 Construction Informatics
-CONS0009 Construction Planning and Control
-CONS0010 Construction Contract Administration
-CONS0013 Construction Management Theory and Practice
-CONS0016 Construction Risk Management & Business Analytics
-CONS0020 Research Project
-CONS0023 Construction Cost and Value Management
-CONS0024 International Construction
-CONS0025 Infrastructure Planning, Procurement and Finance
+course_dict={'CONS0002':'Management of Construction Organisations','CONS0005':'Construction Informatics','CONS0009':'Construction Planning and Control','CONS0010':'Construction Contract Administration','CONS0013':'Construction Management Theory and Practice','CONS0016':'Construction Risk Management & Business Analytics','CONS0020':'Research Project','CONS0023':'Construction Cost and Value Management','CONS0024':'International Construction','CONS0025':'Infrastructure Planning, Procurement and Finance',}

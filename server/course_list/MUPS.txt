@@ -1,8 +1,1 @@
-MUPS0001 Drivers of Urban Change
-MUPS0002 Strategic Urban Policy
-MUPS0003 Decision Making and Governance
-MUPS0004 Development Economics and Finance
-MUPS0005 Strategic Planning and Impact Assessment Tools
-MUPS0007 Research for Evidence-Based Policy
-MUPS0008 International Policy Studio or Major Project
-MUPS0009 Urban Leadership, Politics and Ethics
+course_dict={'MUPS0001':'Drivers of Urban Change','MUPS0002':'Strategic Urban Policy','MUPS0003':'Decision Making and Governance','MUPS0004':'Development Economics and Finance','MUPS0005':'Strategic Planning and Impact Assessment Tools','MUPS0007':'Research for Evidence-Based Policy','MUPS0008':'International Policy Studio or Major Project','MUPS0009':'Urban Leadership, Politics and Ethics',}

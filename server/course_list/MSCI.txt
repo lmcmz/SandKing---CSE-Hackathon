@@ -1,7 +1,1 @@
-MSCI0501 The Marine Environment
-MSCI2001 Introductory Marine Science
-MSCI3001 Physical Oceanography
-MSCI5004 Oceanographic Processes
-MSCI5005 Topics in Marine Biology and Ecology
-MSCI6681 Topics in Australian Marine Science
-MSCI9001 Conservation In Aquatic Ecosystems
+course_dict={'MSCI0501':'The Marine Environment','MSCI2001':'Introductory Marine Science','MSCI3001':'Physical Oceanography','MSCI5004':'Oceanographic Processes','MSCI5005':'Topics in Marine Biology and Ecology','MSCI6681':'Topics in Australian Marine Science','MSCI9001':'Conservation In Aquatic Ecosystems',}

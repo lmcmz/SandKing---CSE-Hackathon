@@ -1,18 +1,1 @@
-TELE3113 Analogue and Digital Communications
-TELE3117 Telecommunications Engineering Design
-TELE3118 Network Technologies
-TELE3119 Trusted Networks
-TELE4120 Thesis Part A - (Telecommunications)
-TELE4121 Thesis - Part B (Telecommunications Engineering)
-TELE4123 Telecommunications Design Proficiency
-TELE4642 Network Performance
-TELE4651 Wireless Communication Technolgies
-TELE4652 Mobile and Satelllite Communications Systems
-TELE4653 Digital Modulation and Coding
-TELE9751 Switching Systems Architecture
-TELE9752 Network Operations and Control
-TELE9753 Advanced Wireless Communications
-TELE9754 Coding and Information Theory
-TELE9755 Microwave Circuits, Theory and Techniques
-TELE9756 Advanced Networking
-TELE9757 Quantum Communications
+course_dict={'TELE3113':'Analogue and Digital Communications','TELE3117':'Telecommunications Engineering Design','TELE3118':'Network Technologies','TELE3119':'Trusted Networks','TELE4120':'Thesis Part A - (Telecommunications)','TELE4121':'Thesis - Part B (Telecommunications Engineering)','TELE4123':'Telecommunications Design Proficiency','TELE4642':'Network Performance','TELE4651':'Wireless Communication Technolgies','TELE4652':'Mobile and Satelllite Communications Systems','TELE4653':'Digital Modulation and Coding','TELE9751':'Switching Systems Architecture','TELE9752':'Network Operations and Control','TELE9753':'Advanced Wireless Communications','TELE9754':'Coding and Information Theory','TELE9755':'Microwave Circuits, Theory and Techniques','TELE9756':'Advanced Networking','TELE9757':'Quantum Communications',}

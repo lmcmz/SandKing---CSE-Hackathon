@@ -1,17 +1,1 @@
-BEES0006 Special Program in Biological, Earth and Environmental Sciences - Undergraduate 6 units of credit
-BEES0010 Australian Environment, Wildlife and Conservation
-BEES2041 Data Analysis for Life and Earth Sciences
-BEES4514 BEES Honours - 24uoc
-BEES4515 BEES Honours - 18uoc
-BEES4516 BEES Honours - 12uoc
-BEES4518 BEES Honours - 6uoc
-BEES4523 Research Proposal
-BEES5001 Topics in Biological Science
-BEES5002 Topics in Ecological Science
-BEES5003 Topics in Geography
-BEES5041 Data Analysis: Env Sc & Mgt
-BEES6601 An Introduction to the Sydney Environment
-BEES6692 Advanced Underwater Field Ecology
-BEES6741 Astrobiology: Life in the Universe
-BEES6800 The Science of Science Communication
-BEES9011 Essential Skills for Research Students (Post-Graduate Students Only)
+course_dict={'BEES0006':'Special Program in Biological, Earth and Environmental Sciences - Undergraduate 6 units of credit','BEES0010':'Australian Environment, Wildlife and Conservation','BEES2041':'Data Analysis for Life and Earth Sciences','BEES4514':'BEES Honours - 24uoc','BEES4515':'BEES Honours - 18uoc','BEES4516':'BEES Honours - 12uoc','BEES4518':'BEES Honours - 6uoc','BEES4523':'Research Proposal','BEES5001':'Topics in Biological Science','BEES5002':'Topics in Ecological Science','BEES5003':'Topics in Geography','BEES5041':'Data Analysis: Env Sc & Mgt','BEES6601':'An Introduction to the Sydney Environment','BEES6692':'Advanced Underwater Field Ecology','BEES6741':'Astrobiology: Life in the Universe','BEES6800':'The Science of Science Communication','BEES9011':'Essential Skills for Research Students (Post-Graduate Students Only)',}

@@ -1,5 +1,1 @@
-PATH2201 Processes in Disease
-PATH2202 Processes in Disease for Health & Exercise Science
-PATH3205 Molecular Basis of Inflammation and Infection
-PATH3206 Cancer Pathology
-PATH3207 Musculoskeletal Diseases
+course_dict={'PATH2201':'Processes in Disease','PATH2202':'Processes in Disease for Health & Exercise Science','PATH3205':'Molecular Basis of Inflammation and Infection','PATH3206':'Cancer Pathology','PATH3207':'Musculoskeletal Diseases',}

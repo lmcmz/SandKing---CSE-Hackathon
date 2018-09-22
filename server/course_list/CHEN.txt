@@ -1,4 +1,1 @@
-CHEN6701 Advanced Reaction Engineering
-CHEN6703 Advanced Particle Systems Engineering
-CHEN6706 Advanced Transport Phenomena
-CHEN6710 Chemical process operations
+course_dict={'CHEN6701':'Advanced Reaction Engineering','CHEN6703':'Advanced Particle Systems Engineering','CHEN6706':'Advanced Transport Phenomena','CHEN6710':'Chemical process operations',}

@@ -1,10 +1,1 @@
-SUSD0001 Sustainable Development and the Urban Environment
-SUSD0002 Building Ecology and Life Cycle Thinking
-SUSD0003 Energy and the Built Environment
-SUSD0004 Sustainability and Habitability
-SUSD0007 Integrated Design Studio
-SUSD0009 Environmental Auditing
-SUSD0010 Managing the Sustainable Built Environment
-SUSD0014 Advanced Topics in Sustainable Development
-SUSD0015 Graduate Research Project
-SUSD0016 Sustainable Infrastructure
+course_dict={'SUSD0001':'Sustainable Development and the Urban Environment','SUSD0002':'Building Ecology and Life Cycle Thinking','SUSD0003':'Energy and the Built Environment','SUSD0004':'Sustainability and Habitability','SUSD0007':'Integrated Design Studio','SUSD0009':'Environmental Auditing','SUSD0010':'Managing the Sustainable Built Environment','SUSD0014':'Advanced Topics in Sustainable Development','SUSD0015':'Graduate Research Project','SUSD0016':'Sustainable Infrastructure',}

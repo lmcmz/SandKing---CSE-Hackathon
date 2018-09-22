@@ -1,11 +1,1 @@
-UDES0001 Urban Design Studio 1
-UDES0002 Urban Design Studio 2
-UDES0003 Urban Design Studio 3
-UDES0004 History and Theory of Urban Development and Design
-UDES0006 Case Studies in Urban Development and Design
-UDES0008 Planning and Urban Development
-UDES0009 Urban Landscape and Heritage
-UDES0010 Communication in Urban Design
-UDES0011 Urban Design Research Project
-UDES0012 Elements of Urban Design
-UDES0013 Urban Design Graphics
+course_dict={'UDES0001':'Urban Design Studio 1','UDES0002':'Urban Design Studio 2','UDES0003':'Urban Design Studio 3','UDES0004':'History and Theory of Urban Development and Design','UDES0006':'Case Studies in Urban Development and Design','UDES0008':'Planning and Urban Development','UDES0009':'Urban Landscape and Heritage','UDES0010':'Communication in Urban Design','UDES0011':'Urban Design Research Project','UDES0012':'Elements of Urban Design','UDES0013':'Urban Design Graphics',}

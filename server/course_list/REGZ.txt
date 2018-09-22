@@ -1,7 +1,1 @@
-REGZ9075 Academic Skills 1
-REGZ9076 Academic Skills 2
-REGZ9081 Mathematics Skills 1
-REGZ9082 Mathematics Skills 2
-REGZ9083 Economics 1
-REGZ9085 Accounting 1
-REGZ9086 Accounting 2
+course_dict={'REGZ9075':'Academic Skills 1','REGZ9076':'Academic Skills 2','REGZ9081':'Mathematics Skills 1','REGZ9082':'Mathematics Skills 2','REGZ9083':'Economics 1','REGZ9085':'Accounting 1','REGZ9086':'Accounting 2',}

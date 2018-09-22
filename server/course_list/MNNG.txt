@@ -1,12 +1,1 @@
-MNNG5040 Coal mining methods, mine planning and applied geomechanics
-MNNG9901 Ventilation and Mine Services
-MNNG9902 Environmental Contaminants
-MNNG9903 Heat in Underground Mines
-MNNG9904 Ventilation System Management
-MNNG9905 Coal Mine Hazards and Control
-MNNG9906 Coal Mine Ventilation
-MNNG9907 Metalliferous Mine Hazards and Control
-MNNG9908 Metalliferous Mine Ventilation
-MNNG9920 Spontaneous Combustion and Reactive Ground
-MNNG9921 Mine Ventilation Legislation
-MNNG9922 Mine Ventilation Practices
+course_dict={'MNNG5040':'Coal mining methods, mine planning and applied geomechanics','MNNG9901':'Ventilation and Mine Services','MNNG9902':'Environmental Contaminants','MNNG9903':'Heat in Underground Mines','MNNG9904':'Ventilation System Management','MNNG9905':'Coal Mine Hazards and Control','MNNG9906':'Coal Mine Ventilation','MNNG9907':'Metalliferous Mine Hazards and Control','MNNG9908':'Metalliferous Mine Ventilation','MNNG9920':'Spontaneous Combustion and Reactive Ground','MNNG9921':'Mine Ventilation Legislation','MNNG9922':'Mine Ventilation Practices',}
