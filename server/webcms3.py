@@ -60,7 +60,7 @@ def download_lecture_notes(course):
 	blocks = soup.find_all('div', 'panel panel-primary')
 	dict[course]["lec"] = {}
 	
-	print(sider_bar)
+#	print(sider_bar)
 	
 	for block in blocks:
 		week_str = block.h4.text.strip()
@@ -249,9 +249,9 @@ def download(account_input, password_input, courseList_input):
 		print("Login Failed")
 		return ""
 	else:
-#		path = os.path.join(data_path,course)
-#		if os.path.exists(path):
-#			return path+".zip"
+		path = os.path.join(data_path,course)
+		if os.path.exists(path):
+			return path+".zip"
 		
 		dict[course] = {}
 		download_lecture_notes(course)
@@ -271,7 +271,7 @@ def get_leture_resoucre(course):
 	
 		
 #print()
-download('z5102511', 'Fh5654013', 'COMP9313')
+download('z5102511', '', 'COMP9321')
 #get_course_outline('undergraduate','COMP9319', 2018)
 
 
