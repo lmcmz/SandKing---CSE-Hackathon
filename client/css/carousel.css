@@ -39,7 +39,7 @@ body {
 /* MARKETING CONTENT
 -------------------------------------------------- */
 
-/* Center align the text within the three columns below the carousel */
+/* Center align the text within the three columns below the carousel.js */
 .marketing .col-lg-4 {
   margin-bottom: 1.5rem;
   text-align: center;
@@ -72,7 +72,7 @@ body {
 -------------------------------------------------- */
 
 @media (min-width: 40em) {
-  /* Bump up size of carousel content */
+  /* Bump up size of carousel.js content */
   .carousel-caption p {
     margin-bottom: 1.25rem;
     font-size: 1.25rem;
