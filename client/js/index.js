@@ -28,7 +28,7 @@ var v = new Vue({
         var self = this;
 
         $.ajax({
-            url: data_url + 'getallevents/',
+            url: data_url + '1/',
             method: 'GET',
             success: function (data) {
                 self.rows = data;
@@ -40,7 +40,7 @@ var v = new Vue({
 
         //get top10
         $.ajax({
-            url: data_url + 'gettop/',
+            url: data_url + '2/',
             method: 'GET',
             async: false,
             success: function (data) {
