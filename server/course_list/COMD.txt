@@ -1,5 +1,0 @@
-COMD0506 Special Program
-COMD5000 Non-Governmental Organisations and Development
-COMD5001 International Development Policy
-COMD5002 Development, Human Rights and Global Health
-COMD5004 Climate Change Adaptation & Development

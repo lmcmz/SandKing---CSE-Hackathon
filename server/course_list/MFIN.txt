@@ -1,7 +1,0 @@
-MFIN6201 Empirical Techniques and Applications in Finance
-MFIN6205 Financial Risk Management for Financial Institutions
-MFIN6210 Empirical Studies in Finance
-MFIN6211 Structured Finance Law
-MFIN6212 Taxation of Financial Arrangements
-MFIN6213 Research Project
-MFIN6214 Financial Theory and Policy

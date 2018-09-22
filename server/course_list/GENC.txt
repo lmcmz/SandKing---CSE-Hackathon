@@ -1,6 +1,0 @@
-GENC2100 Global Finance
-GENC3004 Personal Finance
-GENC5031 Tax for Professionals
-GENC6004 Introduction to Corporate Risk Management
-GENC6007 Marketing for Startups
-GENC7002 Getting Into Business
